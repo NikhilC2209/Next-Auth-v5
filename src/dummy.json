@@ -1,0 +1,20 @@
+{
+    "title": "Dummy User data",
+    "users": [
+        {
+            "id": 1,
+            "username": "Random",
+            "password": "Password123*"
+        },
+        {
+            "id": 2,
+            "username": "Random2",
+            "password": "Password2"
+        },
+        {
+            "id": 3,
+            "username": "Random3",
+            "password": "Password3"
+        }
+    ]
+}
